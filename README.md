@@ -28,14 +28,28 @@ Step 4:
 
 Launch the robotic arm in the RViz program to control it using the Joint State Publisher.
 
+![Screenshot 2024-07-10 030050](https://github.com/user-attachments/assets/183faf6e-566c-4af9-8cad-36258002a6df)
+
+
 Step 5:
 The rqt graph shows the nodes and their connections.
+
+![Screenshot 2024-07-10 030328](https://github.com/user-attachments/assets/92c478f2-74be-46ec-9c89-9db5cc693da4)
+
 
 Step 6:
 Shows the data published on a joint_states topic.
 
+![Screenshot 2024-07-10 030435](https://github.com/user-attachments/assets/9a8d1abe-672d-4e66-85bf-c25ed2b166b5)
+
+
+
 Output:
 Change the positions of the robot arm's joints and visualize it.
+
+![Screenshot 2024-07-10 030738](https://github.com/user-attachments/assets/1efda3a1-fcab-45d6-a104-a1ab05cbf381)
+
+
 
 
 Controlling the robot arm by Moveit and kinematics
@@ -43,15 +57,25 @@ Controlling the robot arm by Moveit and kinematics
 Step 7:
 Simulate the robot arm in a Gazebo environment.
 
+![Screenshot 2024-07-10 031139](https://github.com/user-attachments/assets/a3d1bfe5-f4f9-4525-818a-8bee3b4aaf53)
+
 Step 8:
 Change the permissions of the joint_states_to_gazebo.py 
+
+![Screenshot 2024-07-10 031804](https://github.com/user-attachments/assets/199d391b-ee46-4e78-b97f-31fccc85e258)
+
 
 
 Step 9:
 Shows the connected nodes and topics to control the movement of the robot arm.
 
+![Screenshot 2024-07-10 032656](https://github.com/user-attachments/assets/9300c6c4-09d8-458b-8648-292408a0f236)
+
 Step 10:
-
-
 Used MoveIt to plan the movement of the arm and observe the move in Gazebo.
+
+![Screenshot 2024-07-10 033250](https://github.com/user-attachments/assets/041601de-5484-47c4-bc34-bb83a5360cda)
+
+![Screenshot 2024-07-10 034239](https://github.com/user-attachments/assets/e2802692-d226-4306-8ade-46e11b437dc9)
+
 
